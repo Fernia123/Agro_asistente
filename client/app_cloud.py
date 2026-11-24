@@ -7,7 +7,10 @@ import streamlit as st
 st.set_page_config(page_title="AgroIca NLP Cloud", page_icon="🍇", layout="wide")
 
 # URL del backend configurada por variable de entorno o secreto de Streamlit Cloud
-API_URL = os.getenv("API_URL", st.secrets.get("API_URL", "http://127.0.0.1:8001"))
+try:
+    API_URL = st.secrets["API_URL"]
+except Exception:
+    API_URL = os.getenv("API_URL", "https://agro-asistente.onrender.com")
 
 if "sesion" not in st.session_state:
     st.session_state.sesion = None
