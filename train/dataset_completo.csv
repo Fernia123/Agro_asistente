@@ -1,0 +1,141 @@
+texto,intencion,sentimiento
+La camara de frio 2 subio a 9 grados con 120 cajas de uva red globe,REPORTE_CALIDAD,NEGATIVO
+temperatura alta en camara 1 llegando a 8.5 grados,REPORTE_CALIDAD,NEGATIVO
+se detecto pudricion acida en racimos de uva sweet globe lote L-102,REPORTE_CALIDAD,NEGATIVO
+presencia de hongos y botrytis en jabas de uva red globe,REPORTE_CALIDAD,NEGATIVO
+esparrago verde con puntas abiertas y deshidratado en linea de empaque 2,REPORTE_CALIDAD,NEGATIVO
+brix por debajo del minimo requerido en uva crimson del fundo santa rosa,REPORTE_CALIDAD,NEGATIVO
+calibre muy pequeno en 80 cajas de uva autumn crisp,REPORTE_CALIDAD,NEGATIVO
+humedad excesiva dentro de la camara de frio 3,REPORTE_CALIDAD,NEGATIVO
+fruta golpeada y maltratada en recepcion de campo norte,REPORTE_CALIDAD,NEGATIVO
+temperatura fuera de rango en tunel de enfriamiento 1,REPORTE_CALIDAD,NEGATIVO
+clamshell mal sellados con condensacion de agua en packing,REPORTE_CALIDAD,NEGATIVO
+esparrago blanco manchado y con fibra dura en mesa de seleccion,REPORTE_CALIDAD,NEGATIVO
+subio la temp en camara 4 a 10 grados urgente revisar fruta,REPORTE_CALIDAD,NEGATIVO
+bayas blandas y desgrane alto en lote LT-305 de red globe,REPORTE_CALIDAD,NEGATIVO
+control de calidad rechaza 50 cajas por defectos de color,REPORTE_CALIDAD,NEGATIVO
+la fruta de fundo santa rosa llego en estado optimo sin novedad,REPORTE_CALIDAD,POSITIVO
+temperatura estabilizada a 0.5 grados en camara de frio 2,REPORTE_CALIDAD,POSITIVO
+excelente calibre y firmeza en uva sweet globe lote L-210,REPORTE_CALIDAD,POSITIVO
+muestreo de calidad aprobado al 100 por ciento en packing,REPORTE_CALIDAD,POSITIVO
+esparrago verde fresco y dentro de parametros de humedad,REPORTE_CALIDAD,POSITIVO
+condicion optima de pulpa en tunel de enfriamiento 2,REPORTE_CALIDAD,POSITIVO
+sin presencia de plagas ni pudricion en el lote L-408,REPORTE_CALIDAD,POSITIVO
+se registro lectura de temperatura normal en camara 1,REPORTE_CALIDAD,NEUTRAL
+evaluacion de calibre y brix en proceso en linea de empaque 3,REPORTE_CALIDAD,NEUTRAL
+revision de etiquetas nutricionales y peso neto por caja,REPORTE_CALIDAD,NEUTRAL
+camra d fro 2 subio a 9 grdos con uva red globe,REPORTE_CALIDAD,NEGATIVO
+hay pudricion en varias jabas de campo sur,REPORTE_CALIDAD,NEGATIVO
+el esparrago llego amarillo y deshidratado,REPORTE_CALIDAD,NEGATIVO
+alerta de temperatura critica en camara 5,REPORTE_CALIDAD,NEGATIVO
+uva con rajadura por lluvia en lote L-99,REPORTE_CALIDAD,NEGATIVO
+mal olor y fermentacion en cajas retenidas de packing,REPORTE_CALIDAD,NEGATIVO
+se perdio cadena de frio en preenfriado,REPORTE_CALIDAD,NEGATIVO
+control fitosanitario conforme para exportacion,REPORTE_CALIDAD,POSITIVO
+temperatura de pulpa perfecta en 200 cajas de red globe,REPORTE_CALIDAD,POSITIVO
+inspeccion de calidad en curso para lote L-512,REPORTE_CALIDAD,NEUTRAL
+urgente se detuvo la faja transportadora en linea de empaque 1,FALLA_EQUIPO,NEGATIVO
+la impresora de etiquetas no imprime codigos de barras en packing,FALLA_EQUIPO,NEGATIVO
+falla en el compresor principal de camara de frio 2,FALLA_EQUIPO,NEGATIVO
+lector de codigos atascado y sin conexion en linea 3,FALLA_EQUIPO,NEGATIVO
+balanza electronica descalibrada marca error en pesaje,FALLA_EQUIPO,NEGATIVO
+se malogro el motor de la faja seleccionadora de esparrago,FALLA_EQUIPO,NEGATIVO
+fuga de gas refrigerante en evaporador de camara 1,FALLA_EQUIPO,NEGATIVO
+cortocircuito en tablero electrico de zona de empaque,FALLA_EQUIPO,NEGATIVO
+sensor de temperatura averiado marca lectura erronea,FALLA_EQUIPO,NEGATIVO
+montacargas electrico detenido por falla de bateria en almacen,FALLA_EQUIPO,NEGATIVO
+se rompio la banda de la faja transportadora 2,FALLA_EQUIPO,NEGATIVO
+selladora de clamshell no calienta y detiene produccion,FALLA_EQUIPO,NEGATIVO
+la maquina enzunchadora esta atascada en muelle de carga,FALLA_EQUIPO,NEGATIVO
+se apago el ventilador del tunel de enfriamiento 1,FALLA_EQUIPO,NEGATIVO
+inpresora d etiketas malograda en linea 2,FALLA_EQUIPO,NEGATIVO
+faja detenida por paro mecanico urgente mantenimiento,FALLA_EQUIPO,NEGATIVO
+no funciona el lector optico de jabas en recepcion,FALLA_EQUIPO,NEGATIVO
+alarma de sobrecarga en compresor 3 de frio,FALLA_EQUIPO,NEGATIVO
+pantalla tactil de calibradora bloqueada,FALLA_EQUIPO,NEGATIVO
+se quedo sin energia el sector de hidroenfriado,FALLA_EQUIPO,NEGATIVO
+faja transportadora reparada y operativa nuevamente,FALLA_EQUIPO,POSITIVO
+compresor de camara de frio 2 normalizado tras mantenimiento,FALLA_EQUIPO,POSITIVO
+impresora de etiquetas funcionando sin novedad,FALLA_EQUIPO,POSITIVO
+balanzas calibradas y operativas en todas las lineas,FALLA_EQUIPO,POSITIVO
+mantenimiento preventivo programado para el compresor 1,FALLA_EQUIPO,NEUTRAL
+revision tecnica de sensores en linea de empaque 4,FALLA_EQUIPO,NEUTRAL
+cambio de rodillos en faja transportadora principal,FALLA_EQUIPO,NEUTRAL
+fallo el piston neumatico de la clasificadora,FALLA_EQUIPO,NEGATIVO
+el termoregistro digital no enciende,FALLA_EQUIPO,NEGATIVO
+ruido extrano y vibracion fuerte en motor de enfriamiento,FALLA_EQUIPO,NEGATIVO
+se trabo la etiquetadora automatica de cajas,FALLA_EQUIPO,NEGATIVO
+corte de luz repentino en almacen de insumos,FALLA_EQUIPO,NEGATIVO
+equipo de frio restablecido al cien por ciento,FALLA_EQUIPO,POSITIVO
+se solicita tecnico para revisar lector de barras,FALLA_EQUIPO,NEUTRAL
+verificacion de voltaje en tablero de camaras,FALLA_EQUIPO,NEUTRAL
+cuantas jabas de esparrago verde quedan disponibles en almacen lote L-402,CONSULTA_INVENTARIO,NEUTRAL
+consultar stock disponible de cajas de carton para uva red globe,CONSULTA_INVENTARIO,NEUTRAL
+cuantos pallets listos hay en camara de frio 1,CONSULTA_INVENTARIO,NEUTRAL
+necesito saber el saldo de clamshell de 500g en almacen,CONSULTA_INVENTARIO,NEUTRAL
+verificar inventario actual de etiquetas adhesivas y zunchos,CONSULTA_INVENTARIO,NEUTRAL
+que cantidad de uva sweet globe tenemos lista para exportar,CONSULTA_INVENTARIO,NEUTRAL
+hay disponibilidad de jabas cosecheras limpias para campo norte,CONSULTA_INVENTARIO,NEUTRAL
+confirmar stock de esquineros y parihuelas en deposito,CONSULTA_INVENTARIO,NEUTRAL
+cuantas cajas de esparrago blanco quedan del lote L-115,CONSULTA_INVENTARIO,NEUTRAL
+reportar inventario fisico de productos terminados en frio,CONSULTA_INVENTARIO,NEUTRAL
+cuantos pales de red globe estan almacenados en camara 3,CONSULTA_INVENTARIO,NEUTRAL
+queda stock suficiente de bolsas generadoras de anhidrido sulfuroso,CONSULTA_INVENTARIO,NEUTRAL
+revisar existencia de insumos de empaque para turno noche,CONSULTA_INVENTARIO,NEUTRAL
+cuanto saldo queda del lote LT-204 en almacen central,CONSULTA_INVENTARIO,NEUTRAL
+consultar disponibilidad de pallets certificados,CONSULTA_INVENTARIO,NEUTRAL
+stock completo y abastecido de cajas para toda la semana,CONSULTA_INVENTARIO,POSITIVO
+inventario cuadrado sin diferencias en almacen de frio,CONSULTA_INVENTARIO,POSITIVO
+nos estamos quedando sin stock critico de cajas para uva,CONSULTA_INVENTARIO,NEGATIVO
+quiebre de stock en etiquetas termicas en almacen,CONSULTA_INVENTARIO,NEGATIVO
+faltan jabas vacias para continuar cosecha en fundo sur,CONSULTA_INVENTARIO,NEGATIVO
+cuantas cjas d uva kedan en almacen,CONSULTA_INVENTARIO,NEUTRAL
+dime el stock de esparrago disponible ahora,CONSULTA_INVENTARIO,NEUTRAL
+cuantos pallets completos hay en tunel 2,CONSULTA_INVENTARIO,NEUTRAL
+necesito el conteo de cajas empacadas hoy,CONSULTA_INVENTARIO,NEUTRAL
+hay insumos suficientes en packing para mañana,CONSULTA_INVENTARIO,NEUTRAL
+verificar si quedan parihuelas disponibles,CONSULTA_INVENTARIO,NEUTRAL
+stock de uva crimson en camara de frio 4,CONSULTA_INVENTARIO,NEUTRAL
+consultar saldo de material de embalaje,CONSULTA_INVENTARIO,NEUTRAL
+cuantas toneladas de esparrago hay en inventario,CONSULTA_INVENTARIO,NEUTRAL
+almacen abastecido con 5000 cajas listas,CONSULTA_INVENTARIO,POSITIVO
+desabastecimiento urgente de clamshell en linea 1,CONSULTA_INVENTARIO,NEGATIVO
+revisar kardex de lote L-330,CONSULTA_INVENTARIO,NEUTRAL
+que cantidad de fruta ingreso hoy a recepcion,CONSULTA_INVENTARIO,NEUTRAL
+confirmar numero de pallets en zona de espera,CONSULTA_INVENTARIO,NEUTRAL
+solicito reporte de stock actual en planta,CONSULTA_INVENTARIO,NEUTRAL
+programar salida de camion urgente con guia de remision para muelle de carga,SOLICITUD_DESPACHO,NEUTRAL
+necesito emitir guia de remision para embarque de 20 pallets de uva,SOLICITUD_DESPACHO,NEUTRAL
+solicito asignacion de contenedor refrigerado para despacho al puerto,SOLICITUD_DESPACHO,NEUTRAL
+coordinar carga de camion frigorifico en muelle 2 a las 15 horas,SOLICITUD_DESPACHO,NEUTRAL
+preparar documentacion de exportacion y packing list para embarque,SOLICITUD_DESPACHO,NEUTRAL
+despachar 1500 cajas de esparrago verde hacia Callao,SOLICITUD_DESPACHO,NEUTRAL
+autorizar salida de unidad de transporte con lote L-402,SOLICITUD_DESPACHO,NEUTRAL
+el contenedor ya esta posicionado en muelle de carga para estiba,SOLICITUD_DESPACHO,POSITIVO
+embarque despachado a tiempo y con precinto aduanero conforme,SOLICITUD_DESPACHO,POSITIVO
+camion cargado y en ruta al puerto sin novedades,SOLICITUD_DESPACHO,POSITIVO
+despacho completado exitosamente para cliente exterior,SOLICITUD_DESPACHO,POSITIVO
+retraso en llegada de camion frigorifico para el embarque de hoy,SOLICITUD_DESPACHO,NEGATIVO
+demora en emision de guia de remision detiene salida en muelle,SOLICITUD_DESPACHO,NEGATIVO
+contenedor rechazado por limpieza deficiente antes de cargar,SOLICITUD_DESPACHO,NEGATIVO
+programar despacho de 18 pallets de uva red globe urgente,SOLICITUD_DESPACHO,NEUTRAL
+generar guia de traslado interno entre fundo y planta,SOLICITUD_DESPACHO,NEUTRAL
+solicito rampa en muelle 1 para cargar trailer,SOLICITUD_DESPACHO,NEUTRAL
+enviar manifiesto de carga y certificados de origen para embarque,SOLICITUD_DESPACHO,NEUTRAL
+coordinar transporte para salida de exportacion nocturna,SOLICITUD_DESPACHO,NEUTRAL
+listo para cargar contenedor con uva sweet globe,SOLICITUD_DESPACHO,POSITIVO
+programar salida d camion con guia d remision,SOLICITUD_DESPACHO,NEUTRAL
+urgente despachar lote L-500 en el primer contenedor,SOLICITUD_DESPACHO,NEUTRAL
+necesito precinto y guia para cerrar embarque,SOLICITUD_DESPACHO,NEUTRAL
+solicitar unidad frigorifica para despacho de esparrago,SOLICITUD_DESPACHO,NEUTRAL
+cuando sale el camion rumbo al puerto de Pisco,SOLICITUD_DESPACHO,NEUTRAL
+confirmar hora de embarque en zona de despacho,SOLICITUD_DESPACHO,NEUTRAL
+se libero guia de remision electronica para transporte,SOLICITUD_DESPACHO,POSITIVO
+falta chofer para retirar camion cargado en muelle,SOLICITUD_DESPACHO,NEGATIVO
+reprogramar salida de contenedor por cierre de puerto,SOLICITUD_DESPACHO,NEGATIVO
+agendar despacho de 22 pallets para mañana temprano,SOLICITUD_DESPACHO,NEUTRAL
+iniciar estiba de cajas en contenedor refrigerado,SOLICITUD_DESPACHO,NEUTRAL
+tramitar documentos de salida para furgon 3,SOLICITUD_DESPACHO,NEUTRAL
+despacho en curso en muelle de carga,SOLICITUD_DESPACHO,NEUTRAL
+salida autorizada por garita para camion de exportacion,SOLICITUD_DESPACHO,POSITIVO
+solicito orden de carga para embarque de uva,SOLICITUD_DESPACHO,NEUTRAL
