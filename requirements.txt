@@ -7,3 +7,4 @@ pandas==2.2.3
 requests==2.32.3
 streamlit==1.39.0          # solo para el cliente/dashboard
 python-multipart==0.0.12
+PyJWT
